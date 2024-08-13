@@ -1,0 +1,32 @@
+[
+    {
+        "Name": "John Doe",
+        "Age": 30,
+        "Email": "johndoe@example.com",
+        "IsEmployed": true
+    },
+    {
+        "Name": "Bruce Wayne",
+        "Age": 35,
+        "Email": "batman@example.com",
+        "IsEmployed": false
+    },
+    {
+        "Name": "Clark Kent",
+        "Age": 40,
+        "Email": "superman@example.com",
+        "IsEmployed": true
+    },
+    {
+        "Name": "Peter Parker",
+        "Age": 25,
+        "Email": "spiderman@example.com",
+        "IsEmployed": true
+    },
+    {
+        "Name": "Barry Allen",
+        "Age": 28,
+        "Email": "theflash@example.com",
+        "IsEmployed": false
+    }
+]
